@@ -3,7 +3,7 @@
 - Designing and building a solution to a specification
 
 # The Problem / Situation
-- To design and implement a system for storing and calculating the current state of a hotel.
+- To design and implement a system for storing and calculating the current state of a hotel
 - `Hotel` Should store essential information about a hotel
 - `Room` Should store number of beds in a room
 - `Bed` Should store the size of a bed
