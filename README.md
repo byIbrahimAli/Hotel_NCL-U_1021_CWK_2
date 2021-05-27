@@ -1,5 +1,5 @@
 # Objective / Purpose
-- Demonstrate use of language features of Java
+- Demonstrate use of basic language features of Java
 - Designing and building a solution to a specification
 
 # The Problem / Situation
